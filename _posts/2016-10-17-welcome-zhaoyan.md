@@ -5,4 +5,4 @@ layout: post
 categories: java Android 
 tags: Android开发
 ---
-我得把这个博客折腾好．
+生命在于折腾．
